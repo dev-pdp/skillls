@@ -1,1 +1,34 @@
-# skills
+# Skills
+
+- HTML
+- Semantics
+- Accessibility
+- Google Chrome
+- Chrome Dev Tools
+- Visual Studio Code
+- Emmet
+- macOS
+- CSS
+- GitHub
+- CodePen
+- Google Fonts
+- Flexbox
+- CSS Grid
+- Responsive Web Design
+- CSS Animations
+- Git
+- Terminal
+- Bootstrap
+- JavaScript
+- DOM
+- Ajax
+- APIs
+- JSON
+- Node.js
+- NPM
+- Express.js
+- REST
+- MongoDB
+- Mongoose
+- Middleware (Morgan), etc.
+- Semantic UI, Bulma ???
