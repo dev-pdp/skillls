@@ -17,7 +17,7 @@
 - Responsive Web Design
 - CSS Animations
 - Git
-- Terminal
+- Terminal / Command Line
 - Bootstrap
 - JavaScript
 - DOM
@@ -34,3 +34,12 @@
 - Semantic UI, Bulma ???
 - Algorithms
 - Data Structures
+- TypeScript
+- React
+- JSX
+- React Hooks
+- Next
+- Webpack
+- Security
+- Testing
+- Mocha
